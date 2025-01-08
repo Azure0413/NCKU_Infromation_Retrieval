@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% load static %}
+    {% load humanize %} 
+    {% load custom_tags %} 
+    <link rel="icon" href="{% static 'img/logo.jpg' %}" type="image/x-icon" />
+    <title>Word Frequency Charts</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <style>
+      .chart-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 20px;
+      }
+      .chart-item {
+        width: 45%;
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+        <div class="header-container">
+          <img src="{% static 'img/logo.jpg' %}" alt="logo" class="logo" />
+          <h1>Information Retrieval System</h1>
+          <nav>
+            <ul>
+              <li><a href="{% url 'index_view' %}" onclick="removeQueryParameter()">Home</a></li>
+              <li><a href="{% url 'word_view' %}">Word List</a></li>
+              <li><a href="#wc">Word Cloud</a></li>
+            </ul>
+          </nav>
+        </div>
+    </header>
+
+    <h2 style="margin-top: 120px;">Word Clouds</h2>
+    <div class="chart-container">
+      <div id ="wc" class="chart-item">
+        <h2>Food Safety - Word Cloud</h2>
+        <img src="../../static/charts/wordcloud_food_safety.png" alt="Food Safety Word Cloud" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Word Cloud</h2>
+        <img src="../../static/charts/wordcloud_enterovirus.png" alt="Enterovirus Word Cloud" style="width: 100%;" />
+      </div>
+    </div>
+
+    <div class="chart-container" style="margin-top: 10px;">
+      <div class="chart-item">
+        <h2>Food Safety - Original</h2>
+        <img src="../../static/charts/word_frequency_food_safety_all.png" alt="Food Safety Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Original</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_all.png" alt="Enterovirus Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_all.png" alt="Food Safety Stemmed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_all.png" alt="Enterovirus Stemmed Word Frequency Chart" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_food_safety_all.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_enterovirus_all.png" alt="Enterovirus Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - ylog</h2>
+        <img src="../../static/charts/word_frequency_food_safety_log.png" alt="Food Safety Original Word Frequency Chart log" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - ylog</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_log.png" alt="Enterovirus Original Word Frequency Chart log" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - xylog</h2>
+        <img src="../../static/charts/word_frequency_food_safety_logxy.png" alt="Food Safety Original Word Frequency Chart log" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - xylog</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_logxy.png" alt="Enterovirus Original Word Frequency Chart log" style="width: 100%;"/>
+      </div>
+    </div>
+
+    <h2 style="margin-top: 10px;">Top-20 Words</h2>
+    <div class="chart-container">
+      <div class="chart-item">
+        <h2>Food Safety - Original</h2>
+        <img src="../../static/charts/word_frequency_food_safety_top20.png" alt="Food Safety Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Original</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_top20.png" alt="Enterovirus Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top20.png" alt="Food Safety Stemmed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top20.png" alt="Enterovirus Stemmed Word Frequency Chart" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_food_safety_top20.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_enterovirus_top20.png" alt="Enterovirus Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+    </div>
+
+    <h2 style="margin-top: 10px;">Top-50 Words</h2>
+    <div class="chart-container">
+      <div class="chart-item">
+        <h2>Food Safety - Original</h2>
+        <img src="../../static/charts/word_frequency_food_safety_top50.png" alt="Food Safety Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Original</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_top50.png" alt="Enterovirus Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top50.png" alt="Food Safety Stemmed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top50.png" alt="Enterovirus Stemmed Word Frequency Chart" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_food_safety_top50.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_enterovirus_top50.png" alt="Enterovirus Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+    </div>
+
+    <h2 style="margin-top: 10px;">Top-100 Words</h2>
+    <div class="chart-container">
+      <div class="chart-item">
+        <h2>Food Safety - Original</h2>
+        <img src="../../static/charts/word_frequency_food_safety_top100.png" alt="Food Safety Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Original</h2>
+        <img src="../../static/charts/word_frequency_enterovirus_top100.png" alt="Enterovirus Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top100.png" alt="Food Safety Stemmed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_enterovirus_top100.png" alt="Enterovirus Stemmed Word Frequency Chart" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Food Safety - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_food_safety_top100.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Enterovirus - Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_enterovirus_top100.png" alt="Enterovirus Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+    </div>
+
+    <footer>
+      <p>Copyright© 2024 P76134082 陳冠言</p>
+    </footer>
+  </body>
+</html>

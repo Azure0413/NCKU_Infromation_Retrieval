@@ -1,0 +1,281 @@
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">39347503</PMID><DateRevised><Year>2024</Year><Month>10</Month><Day>01</Day></DateRevised><Article PubModel="Electronic-eCollection"><Journal><ISSN IssnType="Electronic">2515-4826</ISSN><JournalIssue CitedMedium="Internet"><Volume>4</Volume><PubDate><Year>2021</Year></PubDate></JournalIssue><Title>HRB open research</Title><ISOAbbreviation>HRB Open Res</ISOAbbreviation></Journal><ArticleTitle>Tracking aspects of healthcare activity during the first nine months of COVID-19 in Ireland: a secondary analysis of publicly available data.</ArticleTitle><Pagination><StartPage>98</StartPage><MedlinePgn>98</MedlinePgn></Pagination><ELocationID EIdType="pii" ValidYN="Y">98</ELocationID><ELocationID EIdType="doi" ValidYN="Y">10.12688/hrbopenres.13372.3</ELocationID><Abstract><AbstractText Label="BACKGROUND" NlmCategory="UNASSIGNED">Sláintecare aims to introduce universal healthcare in Ireland. The COVID-19 pandemic poses both challenges and opportunities to this process. This study explored the impact of COVID-19 on aspects of Irish healthcare during the first nine months of the pandemic and considers the implications for Sláintecare implementation.</AbstractText><AbstractText Label="METHODS" NlmCategory="UNASSIGNED">Secondary analysis was undertaken on publicly available data on three key domains of the Irish healthcare system: primary care, community-based allied healthcare, and hospitals. Descriptive statistics were computed using Microsoft Excel 2016.</AbstractText><AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">Up to March 2021, 3.76 million COVID-19 tests were performed by Ireland's public healthcare system, 2.48 million (66.0%) of which were referred from the community. General practitioners delivered 2.31 million telephone triages of COVID-19 symptoms, peaking in December 2020 when 416,607 consultations occurred. Patient numbers across eight allied healthcare specialties fell by 35.1% versus previous years, with the greatest reductions seen in speech and language therapy (49.0%) and audiology (46.1%). Hospital waiting lists increased from 729,937 to 869,676 (or by 19.1%) from January 2019 to January 2021. In January 2021, 629,919 patients awaited a first outpatient clinic appointment, with 170,983 (27.1%) waiting longer than 18 months. The largest outpatient lists were observed in orthopaedic surgery (n=77,257); ear, nose and throat surgery (n=68,073); and ophthalmology (n=47,075). The proportion of patients waiting more than 12 months for a day-case gastrointestinal endoscopy rose from 6.0% in January 2020 to 19.0% in January 2021.</AbstractText><AbstractText Label="CONCLUSIONS" NlmCategory="UNASSIGNED">Healthcare activity has been significantly disrupted by COVID-19, leading to increased wait times and greater barriers to healthcare access during the pandemic. Yet, Ireland's health system responses also revealed strong willingness and ability to adapt and to implement novel solutions for healthcare delivery, rapidly and at scale. This has demonstrated what is achievable under Sláintecare and provides a unique opportunity to 'build back better' towards sustainable recovery.</AbstractText><CopyrightInformation>Copyright: © 2024 McGlacken-Byrne D et al.</CopyrightInformation></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>McGlacken-Byrne</LastName><ForeName>Domhnall</ForeName><Initials>D</Initials><Identifier Source="ORCID">0000-0001-5564-2287</Identifier><AffiliationInfo><Affiliation>Royal College of Physicians in Ireland, Kildare Street, Dublin 2, Ireland.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Parker</LastName><ForeName>Sarah</ForeName><Initials>S</Initials><Identifier Source="ORCID">0000-0002-5501-9759</Identifier><AffiliationInfo><Affiliation>Centre for Health Policy and Management, Trinity College Dublin, Dublin, Dublin 2, Ireland.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Burke</LastName><ForeName>Sara</ForeName><Initials>S</Initials><Identifier Source="ORCID">0000-0001-9419-1642</Identifier><AffiliationInfo><Affiliation>Centre for Health Policy and Management, Trinity College Dublin, Dublin, Dublin 2, Ireland.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2024</Year><Month>09</Month><Day>13</Day></ArticleDate></Article><MedlineJournalInfo><Country>Ireland</Country><MedlineTA>HRB Open Res</MedlineTA><NlmUniqueID>101754913</NlmUniqueID><ISSNLinking>2515-4826</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">COVID-19</Keyword><Keyword MajorTopicYN="N">Health reform</Keyword><Keyword MajorTopicYN="N">Ireland.</Keyword><Keyword MajorTopicYN="N">Sláintecare</Keyword><Keyword MajorTopicYN="N">health policy</Keyword><Keyword MajorTopicYN="N">health system</Keyword><Keyword MajorTopicYN="N">implementation</Keyword></KeywordList><CoiStatement>No competing interests were disclosed.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="accepted"><Year>2024</Year><Month>9</Month><Day>9</Day></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2024</Year><Month>9</Month><Day>30</Day><Hour>16</Hour><Minute>21</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2024</Year><Month>9</Month><Day>30</Day><Hour>16</Hour><Minute>20</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2024</Year><Month>9</Month><Day>30</Day><Hour>10</Hour><Minute>6</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2024</Year><Month>9</Month><Day>13</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">39347503</ArticleId><ArticleId IdType="pmc">PMC11439124</ArticleId><ArticleId IdType="doi">10.12688/hrbopenres.13372.3</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>
+Besley T, Bevan G, Burchardi K:
+Naming &amp; Shaming: The impacts of different regimes on hospital waiting times in England and Wales. C.E.P.R. Discussion Papers, CEPR Discussion Papers.2009.
+Reference Source
+</Citation></Reference><Reference><Citation>Bresadola V, Biddau C, Puggioni A, et al. : General surgery and COVID-19: review of practical recommendations in the first pandemic phase. Surg Today. 2020;50(10):1159–1167. 10.1007/s00595-020-02086-4</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s00595-020-02086-4</ArticleId><ArticleId IdType="pmc">PMC7383064</ArticleId><ArticleId IdType="pubmed">32720009</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Brick A, Connolly S:
+Waiting Times for Publicly Funded Hospital Treatment: How does Ireland Measure Up?
+
+The Economic and Social Review.
+
+2021;52:41–52.
+Reference Source
+</Citation></Reference><Reference><Citation>Brick A, Walsh B, Keegan C, et al. : COVID-19 and emergency department attendances in Irish public hospitals. Economic and Social Research Institute. 2020. 10.26504/qec2020may_SA_lyons</Citation><ArticleIdList><ArticleId IdType="doi">10.26504/qec2020may_SA_lyons</ArticleId></ArticleIdList></Reference><Reference><Citation>Burke S, Barry S, Siersbaek R, et al. : Sláintecare - A ten-year plan to achieve universal healthcare in Ireland. Health Policy. 2018;122(12):1278–1282. 10.1016/j.healthpol.2018.05.006</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.healthpol.2018.05.006</ArticleId><ArticleId IdType="pubmed">29843901</ArticleId></ArticleIdList></Reference><Reference><Citation>Burke S, Brugha R, Thomas S: The National Treatment Purchase Fund – A success for some patients yet a public policy failure? Administration. 2019;67:47–69. 10.2478/admin-2019-0013</Citation><ArticleIdList><ArticleId IdType="doi">10.2478/admin-2019-0013</ArticleId></ArticleIdList></Reference><Reference><Citation>Burke SA, Normand C, Barry S, et al. : From universal health insurance to universal healthcare? The shifting health policy landscape in Ireland since the economic crisis. Health Policy. 2016;120(3):235–240. 10.1016/j.healthpol.2015.12.001</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.healthpol.2015.12.001</ArticleId><ArticleId IdType="pubmed">26777302</ArticleId></ArticleIdList></Reference><Reference><Citation>Burke S, Thomas S, Stach M, et al. : Health system foundations for Sláintecare implementation in 2020 and beyond – co-producing a Sláintecare Living Implementation Framework with Evaluation: Learning from the Irish health system’s response to COVID-19. A mixed-methods study protocol [version 1; peer review: 2 approved]. HRB Open Res. 2020;3:70. 10.12688/hrbopenres.13150.1</Citation><ArticleIdList><ArticleId IdType="doi">10.12688/hrbopenres.13150.1</ArticleId><ArticleId IdType="pmc">PMC7934093</ArticleId><ArticleId IdType="pubmed">33728398</ArticleId></ArticleIdList></Reference><Reference><Citation>Coto J, Restrepo A, Cejas I, et al. : The impact of COVID-19 on allied health professions. PLoS One. 2020;15(10): e0241328. 10.1371/journal.pone.0241328</Citation><ArticleIdList><ArticleId IdType="doi">10.1371/journal.pone.0241328</ArticleId><ArticleId IdType="pmc">PMC7598457</ArticleId><ArticleId IdType="pubmed">33125385</ArticleId></ArticleIdList></Reference><Reference><Citation>Del Boca D, Oggero N, Profeta P, et al. : Women’s and men’s work, housework and childcare, before and during COVID-19. Rev Econ Househ. 2020;18(4):1001–1017. 10.1007/s11150-020-09502-1</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s11150-020-09502-1</ArticleId><ArticleId IdType="pmc">PMC7474798</ArticleId><ArticleId IdType="pubmed">32922242</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Department of Health/Sláintecare Implementation Office:
+Sláintecare Action Plan. [WWW Document].2019; (accessed 7.14.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Department of Health/Sláintecare Implementation Office:
+Sláintecare Implementation Strategy.[WWW Document].2018; (accessed 7.14.21).
+Reference Source
+</Citation></Reference><Reference><Citation>Gohar B, Larivière M, Nowrouzi-Kia B: Sickness absence in healthcare workers during the COVID-19 pandemic. Occup Med (Lond). 2020;70(5):338–342. 10.1093/occmed/kqaa093</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/occmed/kqaa093</ArticleId><ArticleId IdType="pmc">PMC7313824</ArticleId><ArticleId IdType="pubmed">32449751</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Government of Ireland:
+Government Publishes National Action Plan on COVID-19.[WWW Document].2020a; (accessed 7.14.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Government of Ireland:
+Level 5.[WWW Document].2020b; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+National Service Plan 2021.[WWW Document]. HSE.ie.2021a; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+HSE Corporate Plan 2021-24.2021b;30.
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Workforce Report – Absence Report, February 2021.[WWW Document]. HSE.ie.2021c; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+HSE Winter Plan 2020/2021 - Winter Planning within the COVID-19 Pandemic.[WWW Document]. HSE.ie.2020a; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - January 2020.[WWW Document]. HSE.ie.2020b; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - February 2020.[WWW Document]. HSE.ie.2020c; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - March 2020.[WWW Document]. HSE.ie.2020d; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - April 2020.[WWW Document]. HSE.ie.2020e; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - May 2020.[WWW Document]. HSE.ie.2020f; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - June 2020.[WWW Document]. HSE.ie.2020g; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - July 2020.[WWW Document]. HSE.ie.2020h; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - August 2020.[WWW Document]. HSE.ie.2020i; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - September 2020.[WWW Document]. HSE.ie.2020j; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, January-March 2020, Quarterly Report.[WWW Document]. HSE.ie.2020k; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, April-June, 2020, Quarterly Report.[WWW Document]. HSE.ie.2020l; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, July-September 2020, Quarterly Report.[WWW Document]. HSE.ie.2020m; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - January 2019.[WWW Document]. HSE.ie.2019a; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - February 2019.[WWW Document]. HSE.ie.2019b; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>Health Service Executive: Management Data Report - March 2019.[WWW Document]. HSE.ie.2019c; (accessed 7.16.21).</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - April 2019.[WWW Document]. HSE.ie.2019d; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - May 2019.[WWW Document]. HSE.ie.2019e; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - June 2019.[WWW Document]. HSE.ie.2019f; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - July 2019.[WWW Document]. HSE.ie.2019g; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - August 2019.[WWW Document]. HSE.ie.2019h; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - September 2019.[WWW Document]. HSE.ie.2019i; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - October 2019.[WWW Document]. HSE.ie.2019j; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - November 2019.[WWW Document]. HSE.ie.2019k; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - December 2019.[WWW Document]. HSE.ie.2019l; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, January-March 2019, Quarterly Report.[WWW Document]. HSE.ie.2019m; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, April-June 2019, Quarterly Report.[WWW Document]. HSE.ie.2019n; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, July-September 2019, Quarterly Report. [WWW Document]. HSE.ie.2019o; (accessed 7.17.21)
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile. October-December 2019, Quarterly Report. [WWW Document]. HSE.ie.2019p; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - January 2018.[WWW Document]. HSE.ie.2018a; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - February 2018.[WWW Document]. HSE.ie.2018b; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - March 2018.[WWW Document]. HSE.ie.2018c; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - April 2018.[WWW Document]. HSE.ie.2018d; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - May 2018.[WWW Document]. HSE.ie.2018e; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - July 2018.[WWW Document]. HSE.ie.2018f; (accessed 7.16.21)
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - August 2018.[WWW Document]. HSE.ie.2018g; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - September 2018.[WWW Document]. HSE.ie.2018h; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - October 2018.[WWW Document]. HSE.ie.2018i; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>Health Service Executive: Management Data Report - November 2018.[WWW Document]. HSE.ie.2018j; (accessed 7.16.21).</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Management Data Report - December 2018.[WWW Document]. HSE.ie.2018k; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, January-March 2018, Quarterly Report.[WWW Document]. HSE.ie.2018l; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, April-June 2018, Quarterly Report.[WWW Document]. HSE.ie.2018m; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile, July-September 2018, Quarterly Report. [WWW Document]. HSE.ie.2018n; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Performance Profile. October-December 2018, Quarterly Report. [WWW Document]. HSE.ie.2018o; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Health Service Executive:
+Medical Workforce Planning Future: Demand for General Practitioners 2015–2025. [WWW Document].2015; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Heneghan C, Jefferson T:
+What does RCGP surveillance tell us about COVID-19 in the community?[WWW Document]. The Centre for Evidence-Based Medicine.2020; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Houses of the Oireachtas:
+Sláintecare Report – Committee on the Future of Healthcare (32nd Dáil). 32nd Dáil, 25th Seanad [WWW Document].2017; (accessed 7.14.21).
+Reference Source
+</Citation></Reference><Reference><Citation>Lazzerini M, Barbi E, Apicella A, et al. : Delayed access or provision of care in Italy resulting from fear of COVID-19. Lancet Child Adolesc Health. 2020;4(5):e10–e11. 10.1016/S2352-4642(20)30108-5</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/S2352-4642(20)30108-5</ArticleId><ArticleId IdType="pmc">PMC7146704</ArticleId><ArticleId IdType="pubmed">32278365</ArticleId></ArticleIdList></Reference><Reference><Citation>Marron L, Burke S, Kavanagh P: The public health and health system implications of changes in the utilisation of acute hospital care in Ireland during the first wave of COVID-19: Lessons for recovery planning [version 1; peer review: 2 approved with reservations]. HRB Open Res. 2021;4:67. 10.12688/hrbopenres.13307.1</Citation><ArticleIdList><ArticleId IdType="doi">10.12688/hrbopenres.13307.1</ArticleId><ArticleId IdType="pmc">PMC9513415</ArticleId><ArticleId IdType="pubmed">36204710</ArticleId></ArticleIdList></Reference><Reference><Citation>Nabe-Nielsen K, Nilsson CJ, Juul-Madsen M, et al. : COVID-19 risk management at the workplace, fear of infection and fear of transmission of infection among frontline employees. Occup Environ Med. 2021;78(4):248–254. 10.1136/oemed-2020-106831</Citation><ArticleIdList><ArticleId IdType="doi">10.1136/oemed-2020-106831</ArticleId><ArticleId IdType="pubmed">33077432</ArticleId></ArticleIdList></Reference><Reference><Citation>
+National Public Health Emergency Team:
+Joint Department of Health and HSE Update - Primary Care Staffing &amp; Service Delivery in a Covid Environment. [WWW Document].2020a; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+National Public Health Emergency Team:
+NPHET COVID-19 Meeting Note - 31st March 2020. [WWW Document].2020b; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+National Treatment Purchase Fund:
+National Waiting List Data. [WWW Document].2021; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+National Treatment Purchase Fund:
+National Waiting List Management Protocol. [WWW Document].2017; (accessed 7.17.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+NHS England:
+A&amp;E Attendances and Emergency Admissions March 2020 Statistical Commentary. [WWW Document].2020; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+NHS Statistics:
+Consultant-Led Referral to Treatment Waiting Times Data 2022-2023.2023; (accessed 6.3.23).
+Reference Source
+</Citation></Reference><Reference><Citation>Ordnance Survey Ireland: COVID-19 Open Data Source. [WWW Document].2021; (accessed 7.16.21). (Since publication, this resource has been subsumed into a governmental COVID-19 data hub, accessible at: COVID 19 Data Hub, Datasets and other sources of information - data.gov.ie).</Citation></Reference><Reference><Citation>
+Organisation for Economic Co-Operation and Development:
+State of Health in the EU - Ireland: Country Health Profile. [WWW Document].2019; (accessed 7.14.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Primary Care Reimbursement Service:
+Primary Care Reimbursement Service - Reporting Menu. [WWW Document].2021; (accessed 7.16.21).
+Reference Source
+</Citation></Reference><Reference><Citation>
+Raidió Teilifís Éireann:
+HSE pledges 800 contact tracers to deal with Covid-19.2020a.
+Reference Source
+</Citation></Reference><Reference><Citation>Raidió Teilifís Éireann: HSE chief apologises over contact tracing issue.2020b.</Citation></Reference><Reference><Citation>REACT Study Investigators, Riley S, Ainslie KEC, et al. : Community prevalence of SARS-CoV-2 virus in England during May 2020: REACT study. medRxiv. 2020.07.10.20150524. 10.1101/2020.07.10.20150524</Citation><ArticleIdList><ArticleId IdType="doi">10.1101/2020.07.10.20150524</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Ritchie H, Ortiz-Ospina E, Beltekian D, et al. :
+Ireland: Coronavirus Pandemic Country Profile.Our World in Data,2020.
+Reference Source
+</Citation></Reference><Reference><Citation>Rosenbaum L: The Untold Toll - The Pandemic’s Effects on Patients without Covid-19. N Engl J Med. 2020;382(24):2368–2371. 10.1056/NEJMms2009984</Citation><ArticleIdList><ArticleId IdType="doi">10.1056/NEJMms2009984</ArticleId><ArticleId IdType="pubmed">32302076</ArticleId></ArticleIdList></Reference><Reference><Citation>Shannon G, Minckas N, Tan D, et al. : Feminisation of the health workforce and wage conditions of health professions: an exploratory analysis. Hum Resour Health. 2019;17(1): 72. 10.1186/s12960-019-0406-0</Citation><ArticleIdList><ArticleId IdType="doi">10.1186/s12960-019-0406-0</ArticleId><ArticleId IdType="pmc">PMC6796343</ArticleId><ArticleId IdType="pubmed">31623619</ArticleId></ArticleIdList></Reference><Reference><Citation>Siciliani L, Moran V, Borowitz M: Measuring and comparing health care waiting times in OECD countries. Health Policy. 2014;118(3):292–303. 10.1016/j.healthpol.2014.08.011</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.healthpol.2014.08.011</ArticleId><ArticleId IdType="pubmed">25217838</ArticleId></ArticleIdList></Reference><Reference><Citation>Tack C, Grodon J, Shorthouse F, et al. : "Physio anywhere": digitally-enhanced outpatient care as a legacy of coronavirus 2020. Physiotherapy. 2021;110:A26–A28. 10.1016/j.physio.2020.07.004</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.physio.2020.07.004</ArticleId><ArticleId IdType="pmc">PMC7368424</ArticleId><ArticleId IdType="pubmed">33308826</ArticleId></ArticleIdList></Reference><Reference><Citation>Thomas P, Baldwin C, Bissett B, et al. : Physiotherapy management for COVID-19 in the acute hospital setting: clinical practice recommendations. J Physiother. 2020;66(2):73–82. 10.1016/j.jphys.2020.03.011</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jphys.2020.03.011</ArticleId><ArticleId IdType="pmc">PMC7165238</ArticleId><ArticleId IdType="pubmed">32312646</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Thomson S, Jowett M, Mladovsky P:
+Health System Responses to Financial Pressures in Ireland - Policy Options in an International Context. WHO Regional Off. for Europe, Copenhagen.2014.
+Reference Source
+</Citation></Reference><Reference><Citation>
+U.S. Bureau of Labor Statistics:
+Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity.2021.
+Reference Source
+</Citation></Reference><Reference><Citation>Walsh B, Smith S, Wren M-A, et al. : Geographic profile of healthcare needs and non-acute healthcare supply in Ireland (Report). ESRI.2019. 10.26504/rs90</Citation><ArticleIdList><ArticleId IdType="doi">10.26504/rs90</ArticleId></ArticleIdList></Reference><Reference><Citation>
+World Health Organisation:
+Strengthening the Health Systems Response to COVID-19 - Policy Brief: Recommendations for the WHO European Region. (No. WHO/EURO: 2020-806-40541-54465). World Health Organization. Regional Office for Europe.2020a.
+Reference Source
+</Citation></Reference><Reference><Citation>
+World Health Organisation:
+Strengthening the Health Financing Response to COVID-19 in Europe.2020b.
+Reference Source
+</Citation></Reference><Reference><Citation>
+Wren MA:
+Unhealthy State: Anatomy of a Sick Society. Request PDF. New Island, Dublin.2003.
+Reference Source
+</Citation></Reference></ReferenceList></PubmedData></PubmedArticle>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% load static %}
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="{% static 'img/logo.jpg' %}" type="image/x-icon" />
+        <title>Analysis Result</title>
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    </head>
+    <body>
+        <header>
+            <div class="header-container">
+              <img src="{% static 'img/logo.jpg' %}" alt="logo" class="logo" />
+              <h1>Information Retrieval System</h1>
+              <nav>
+                <ul>
+                  <li><a href="{% url 'index_view' %}">Home</a></li>
+                  <li><a href="{% url 'distribution_view' %}">Analysis</a></li>
+                  <li><a href="{% url 'w2v_view' %}">Word2Vec</a></li>
+                </ul>
+              </nav>
+            </div>
+        </header>
+        <h1 style="margin-top: 120px; margin-right: 200px;">{{query}} 分析結果</h1>
+        {% if similar_words %}
+        <div class="similar-words-suggestions" style="margin-top: 20px;">
+            <p>Did you mean: 
+                {% for word in similar_words %}
+                <a href="?year=None&qq={{ word }}" style="margin-right: 3px;">{{ word }}</a>{% if not forloop.last %}, {% endif %}
+                {% endfor %}
+            </p>
+        </div>
+        {% endif %}
+
+        <h2>CBOW 模型的相似詞</h2>
+        <div class="container" style="display: flex; align-items: center; width: 90%;">
+            <div style="display: flex; flex-wrap: wrap;">
+                <div style="flex: 3; min-width: 400px;">
+                    <ul class="similar-words-list" style="display: flex; flex-wrap: wrap; padding: 0; margin-left: 10px; list-style-type: none;margin-top: 50px;">
+                        {% for word, similarity in cbow_similar_words %}
+                            <li style="flex: 1 1 calc(25% - 10px); margin: 5px;">
+                                {{ forloop.counter }}. {{ word }}: {{ similarity|floatformat:2 }}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div style="flex: 2; min-width: 200px; display: flex; justify-content: center; align-items: center;">
+                    <img src="../../static/charts/CBOW_Similarity_{{ query }}.png" alt="CBOW Similarity Plot" style="max-width: 100%; height: auto;" />
+                </div>
+            </div>
+        </div>
+        
+        <h2>Skip-Gram 模型的相似詞</h2>
+        <div class="container" style="display: flex; align-items: center; width: 90%;">
+            <div style="display: flex; flex-wrap: wrap;">
+                <div style="flex: 3; min-width: 400px;">
+                    <ul class="similar-words-list" style="display: flex; flex-wrap: wrap; padding: 0; margin-left: 10px; list-style-type: none;margin-top: 50px;">
+                        {% for word, similarity in skipgram_similar_words %}
+                            <li style="flex: 1 1 calc(25% - 10px); margin: 5px;">
+                                {{ forloop.counter }}. {{ word }}: {{ similarity|floatformat:2 }}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div style="flex: 2; min-width: 200px; display: flex; justify-content: center; align-items: center;">
+                    <img src="../../static/charts/SkipGram_Similarity_{{ query }}.png" alt="SkipGram Similarity Plot" style="max-width: 100%; height: auto;" />
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="end">Copyright© 2024 P76134082 陳冠言</div>
+    </body>
+</html>

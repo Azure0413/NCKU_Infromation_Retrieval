@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    {% csrf_token %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% load static %}
+    <link rel="icon" href="../../static/img/logo.jpg" type="image/x-icon" />
+    <title>Dataset</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <style>
+      .file-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        list-style: none;
+        padding: 0;
+      }
+      .file-grid li {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+        background-color: #f9f9f9;
+        border-radius: 5px;
+      }
+      .file-grid button {
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <script>
+    function getCSRFToken() {
+  let cookieValue = null;
+  let name = 'csrftoken';
+  if (document.cookie && document.cookie !== '') {
+    let cookies = document.cookie.split(';');
+    for (let i = 0; i < cookies.length; i++) {
+      let cookie = cookies[i].trim();
+      if (cookie.substring(0, name.length + 1) === (name + '=')) {
+        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+        break;
+      }
+    }
+  }
+  return cookieValue;
+}
+
+function deleteFile(filename) {
+  if (confirm("Are you sure you want to delete this file?")) {
+    fetch(`../delete/${filename}/`, {
+      method: "POST",
+      headers: {
+        "X-CSRFToken": getCSRFToken(),
+        "Content-Type": "application/json"
+      },
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.status === 'success') {
+        alert(data.message);
+        location.reload();
+      } else {
+        alert(data.message);
+      }
+    });
+  }
+}
+  </script>
+  <body>
+    <header>
+      <div class="header-container">
+        <img src="../../static/img/logo.jpg" alt="logo" class="logo" />
+        <h1>Information Retrieval System</h1>
+        <nav>
+          <ul>
+            <li><a href="../">Home</a></li>
+            <li><a href="#" onclick="showUploadNotifications(event)">Upload</a></li>
+            <li><a href="{% url 'compare_view' %}">Function Test</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <h1 style="margin-top: 120px; margin-left: 15px;">All XML in Dataset</h1>
+    {% csrf_token %}
+    <ul class="file-grid">
+      {% for file in files %}
+      <li>
+        {{ file }}
+        <button onclick="deleteFile('{{ file }}')">Delete</button>
+      </li>
+      {% endfor %}
+    </ul>
+  </body>
+  <script src="../../../static/js/script.js"></script>
+</html>

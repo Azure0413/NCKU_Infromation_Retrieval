@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% load static %}
+    {% load humanize %} 
+    {% load custom_tags %} 
+    <link rel="icon" href="{% static 'img/logo.jpg' %}" type="image/x-icon" />
+    <title>Word to Vector</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<style>
+    .similar-words-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px; /* 控制項目之間的間距 */
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .similar-words-list li {
+        flex: 1 1 calc(20% - 10px); /* 每列顯示 4 個項目 */
+        margin: 5px 0;
+    }
+
+    .chart-container {
+        display: none; /* 預設隱藏圖表 */
+        margin: 20px 0;
+        justify-content: space-between; /* 使圖表在容器中左右對齊 */
+    }
+
+    .toggle-button {
+        margin: 10px 0;
+        cursor: pointer;
+        padding: 10px;
+        background-color: dodgerblue;
+        color: white;
+        border: none;
+        border-radius: 5px;
+    }
+    #bbtn {
+    border-radius: 5px;
+    background-color: rgb(163, 206, 244);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    }
+    #bbtn:hover {
+        background-color: rgb(12, 136, 245);
+    }
+</style>
+<script>
+    function createChart(word, labels, data) {
+        const ctx = document.getElementById('chart-' + word).getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Similarity',
+                    data: data,
+                    backgroundColor: 'rgba(0, 123, 255, 0.5)',
+                    borderColor: 'rgba(0, 123, 255, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+
+    function toggleChart(word) {
+        const container = document.getElementById('chart-container-' + word);
+        if (container.style.display === "none") {
+            container.style.display = "flex"; // 顯示圖表
+            const labels = [];
+            const data = [];
+
+            {% for similar_word, similarity in similarities.cbow %}
+                labels.push("{{ similar_word }}");
+                data.push({{ similarity }});
+            {% endfor %}
+
+            createChart(word, labels, data);
+        } else {
+            container.style.display = "none"; // 隱藏圖表
+        }
+    }
+</script>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="{% static 'img/logo.jpg' %}" alt="logo" class="logo" />
+            <h1>Information Retrieval System</h1>
+            <nav>
+                <ul>
+                    <li><a href="{% url 'index_view' %}" onclick="removeQueryParameter()">Home</a></li>
+                    <li><a href="{% url 'distribution_view' %}" onclick="removeQueryParameter()">Analysis</a></li>
+                    <li><a href="{% url 'w2v_view' %}">Word2Vec</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <h2 style="margin-top: 120px;">Top 10 Words and Similar Words Using CBOW and Skip-gram</h2>
+    <div class="word-similarity-container" style="width: 90%;">
+        {% for word, similarities in top_word_similarities.items %}
+            <div class="word-section">
+                <h3 style="color: dodgerblue; text-decoration: underline;">{{ word }}</h3>
+                <p><strong>CBOW Similar Words:</strong></p>
+                <ul class="similar-words-list">
+                    {% for similar_word, similarity in similarities.cbow %}
+                        <li>{{ forloop.counter }}. {{ similar_word }} ({{ similarity|floatformat:2 }})</li>
+                    {% endfor %}
+                </ul>
+                <p><strong>Skip-gram Similar Words:</strong></p>
+                <ul class="similar-words-list">
+                    {% for similar_word, similarity in similarities.skip_gram %}
+                        <li>{{ forloop.counter }}. {{ similar_word }} ({{ similarity|floatformat:2 }})</li>
+                    {% endfor %}
+                </ul>
+
+                <button class="toggle-button" onclick="toggleChart('{{ word }}')">Toggle Chart</button>
+                <div class="chart-container" id="chart-container-{{ word }}">
+                    <img src="../../static/charts/cbow_{{word}}_similarity.png" alt="CBOW Similarity Scatter Plot" style="width: 48%; margin: 20px 0;" />
+                    <img src="../../static/charts/skipgram_{{word}}_similarity.png" alt="Skip-gram Similarity Scatter Plot" style="width: 48%; margin: 20px 0;" />
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <h2>Comparing Input</h2>
+    <form method="get" action="{% url 'w2v_view' %}" class="word-similarity-form">
+        <div class="form-group">
+            <label for="word1">Word 1:</label>
+            <input type="text" id="word1" name="word1" style="width: 150px;" required />
+        </div>
+        
+        <div class="form-group">
+            <label for="word2">Word 2:</label>
+            <input type="text" id="word2" name="word2" style="width: 150px;" required />
+        </div>
+    
+        <button type="submit" class="toggle-button" id="bbtn">Calculate Similarity</button>
+    </form>
+    
+    {% if word1 and word2 %}
+        <h3>Similarity between "{{ word1 }}" and "{{ word2 }}"</h3>
+        <p><strong>CBOW Similarity:</strong> {{ cbow_similarity|floatformat:2 }}</p>
+        <p><strong>Skip-gram Similarity:</strong> {{ skipgram_similarity|floatformat:2 }}</p>
+    {% endif %}
+    
+    <footer>
+        <p>Copyright© 2024 P76134082 陳冠言</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% load static %}
+    {% load humanize %} 
+    {% load custom_tags %} 
+    <link rel="icon" href="{% static 'img/logo.jpg' %}" type="image/x-icon" />
+    <title>Analysis</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <style>
+      .chart-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 20px;
+      }
+      .chart-item {
+        width: 45%;
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+        <div class="header-container">
+          <img src="{% static 'img/logo.jpg' %}" alt="logo" class="logo" />
+          <h1>Information Retrieval System</h1>
+          <nav>
+            <ul>
+              <li><a href="{% url 'index_view' %}">Home</a></li>
+              <li><a href="{% url 'distribution_view' %}">Analysis</a></li>
+              <li><a href="{% url 'w2v_view' %}">Word2Vec</a></li>
+            </ul>
+          </nav>
+        </div>
+    </header>
+
+    <div class="chart-container" style="margin-top: 120px;">
+      <div id ="wc" class="chart-item">
+        <h2>Word Clouds</h2>
+        <img src="../../static/charts/wordcloud.png" alt="Word Cloud" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Word Cloud - stopword</h2>
+        <img src="../../static/charts/wordcloud_stopword.png" alt="Word Cloud stopword" style="width: 100%;" />
+      </div>
+    </div>
+    <div class="chart-container" style="margin-top: 10px;">
+      <div class="chart-item">
+        <h2>Original</h2>
+        <img src="../../static/charts/word_frequency_all.png" alt="Food Safety Original Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Stemmed</h2>
+        <img src="../../static/charts/word_frequency_stemmed_all.png" alt="Stemmed Word Frequency Chart" style="width: 100%;" />
+      </div>
+      <div class="chart-item">
+        <h2>Stop Words Removed</h2>
+        <img src="../../static/charts/word_frequency_filtered_all.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+      <div class="chart-item">
+        <h2>Original - logxy</h2>
+        <img src="../../static/charts/word_frequency_logxy.png" alt="Food Safety Stop Words Removed Word Frequency Chart" style="width: 100%;"/>
+      </div>
+    </div>
+    <footer>
+      <p>Copyright© 2024 P76134082 陳冠言</p>
+    </footer>
+  </body>
+</html>

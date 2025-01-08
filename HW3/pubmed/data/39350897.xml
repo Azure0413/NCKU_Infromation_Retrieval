@@ -1,0 +1,321 @@
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">39350897</PMID><DateRevised><Year>2024</Year><Month>10</Month><Day>03</Day></DateRevised><Article PubModel="Print-Electronic"><Journal><ISSN IssnType="Electronic">2642-0007</ISSN><JournalIssue CitedMedium="Internet"><Volume>5</Volume><Issue>8</Issue><PubDate><Year>2024</Year><Month>Aug</Month></PubDate></JournalIssue><Title>NEJM catalyst innovations in care delivery</Title><ISOAbbreviation>NEJM Catal Innov Care Deliv</ISOAbbreviation></Journal><ArticleTitle>The San Francisco Health Systems Collaborative: Public Health and Health Care Delivery Systems' Response to the Covid-19 Pandemic.</ArticleTitle><ELocationID EIdType="doi" ValidYN="Y">10.1056/CAT.23.0330</ELocationID><Abstract><AbstractText>The Covid-19 pandemic challenged health care delivery systems worldwide. Many acute care hospitals in communities that experienced surges in cases and hospitalizations had to make decisions such as rationing scarce resources. Hospitals serving low-income communities, communities of color, and those in other historically marginalized or vulnerable groups reported the greatest operational impacts of surges. However, cross-institutional collaborations within jurisdictions offer unique opportunities to prevent or mitigate health disparities in resource utilization and access to care. In January 2020, in response to the emerging coronavirus epidemic, the San Francisco Department of Public Health (SFDPH) and local hospital and health systems partners convened to align and coordinate medical surge planning and response. Adopting a governance structure of mutual accountability and transparency, the San Francisco Health Systems Collaborative guided local medical and public health response in the areas of medical surge, vaccination administration, testing, and therapeutics. Four principles guided the collaborative response: (1) shared priorities, (2) clear governance and accountability, (3) data transparency, and (4) operational coordination. High-level priorities established included protecting vulnerable people, protecting health care workers, and maintaining health system capacity. The governance structure consisted of three layers: local hospital and health systems' CEOs coordinating with SFDPH executives; hospital chief medical and nursing officers coordinating high-level surge capacity assessments and mitigation plans; and local clinical operational managers working with public health response operational leaders to coordinate scarce resource utilization. Fluctuating with the tempo of the disease indicators and medical surge, governance and coordination were maintained through a tiered meeting and reporting system. Data visibility and transparency were key principles facilitating operational decision-making and executive-level coordination of resources, including identifying additional surge bed capacity for use systemwide, as well as ensuring efficient and equitable vaccine distribution through implementation of five mass-vaccination sites with prioritized access for vulnerable communities. Applying these four principles of shared priorities, accountability, transparency, and operational coordination and pragmatism helped the public health and individual hospital systems make contributions to the overall response that were aligned with their unique strengths and resources. Publication here represents the first official public use of the name <i>San Francisco Health Systems Collaborative</i> (which had served as the term used internally to refer to the group) and the first time codifying this structure. Through this coordination, San Francisco achieved one of the lowest Covid-19 death rates and had one of the highest vaccination and booster rates, compared with rates across California or the United States. Similar principles and implementation methods can be adopted by other health jurisdictions for future emergency outbreak response.</AbstractText></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Mercer</LastName><ForeName>Mary P</ForeName><Initials>MP</Initials><AffiliationInfo><Affiliation>Chief of Medical Staff, Zuckerberg San Francisco General Hospital, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Covid-19 Vaccine Section Chief and Covid-19 Health Systems Deputy Director, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Director, Emergency Medical Services and Disaster Medicine Section, University of California San Francisco Department of Emergency Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Professor of Emergency Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Day</LastName><ForeName>Lukejohn</ForeName><Initials>L</Initials><AffiliationInfo><Affiliation>Chief Medical Officer, University of California San Francisco Health System, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Chief Medical Officer, Zuckerberg San Francisco General Hospital, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Professor of Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Ansari</LastName><ForeName>Maria</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>Chief Executive Officer and Executive Director, The Permanente Medical Group Inc., Oakland, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>President and Chief Executive Officer, Mid-Atlantic Permanente Medical Group, Rockland, Maryland, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Co-Chief Executive Officer, The Permanente Federation, Oakland, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Physician in Chief, Kaiser Permanente Medical Group, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kwan</LastName><ForeName>Elizabeth</ForeName><Initials>E</Initials><AffiliationInfo><Affiliation>Former Covid-19 Vaccine Logistics Branch Director, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Associate Professor of Emergency Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Kotis</LastName><ForeName>Desi</ForeName><Initials>D</Initials><AffiliationInfo><Affiliation>Chief Pharmacy Executive, UCSF Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Associate Dean and Faculty Member, UCSF School of Pharmacy, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Caplan</LastName><ForeName>Valerie</ForeName><Initials>V</Initials><AffiliationInfo><Affiliation>Data Visualization &amp; Reporting Team Manager, Center for Data Science, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Nguyen</LastName><ForeName>Trang Quyen</ForeName><Initials>TQ</Initials><AffiliationInfo><Affiliation>Epidemiologist, Applied Research, Community Health Epidemiology, and Surveillance Branch Population, Health Division, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Lee</LastName><ForeName>Christopher</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Epidemiologist, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Smith</LastName><ForeName>Matthew</ForeName><Initials>M</Initials><AffiliationInfo><Affiliation>Analytics Engineer, DataSF, Office of the City Administrator, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Principal Analyst, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Tenner</LastName><ForeName>Andrea G</ForeName><Initials>AG</Initials><AffiliationInfo><Affiliation>Director of Public Health Emergency Preparedness and Response, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Associate Clinical Professor, Emergency Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Sangha</LastName><ForeName>Baljeet</ForeName><Initials>B</Initials><AffiliationInfo><Affiliation>System Chief Operating Officer and Deputy Director, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Rivera</LastName><ForeName>Tiffany</ForeName><Initials>T</Initials><AffiliationInfo><Affiliation>Deputy Director, Public Health Emergency Preparedness and Response, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Saelee</LastName><ForeName>Kenpou</ForeName><Initials>K</Initials><AffiliationInfo><Affiliation>Program Coordinator, Emergency Preparedness, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Horton</LastName><ForeName>Claire</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Vice President and Associate Chief Medical Officer, National Medicaid Program, Kaiser Permanente National Health Plan and Hospitals, Oakland, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Chief Medical Officer, San Francisco Health Network, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Green</LastName><ForeName>Adrienne</ForeName><Initials>A</Initials><AffiliationInfo><Affiliation>Professor of Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>CEO, San Francisco Campus for Jewish Living, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Giang</LastName><ForeName>Vernon</ForeName><Initials>V</Initials><AffiliationInfo><Affiliation>Chief Medical Executive, California Pacific Medical Center, Sutter Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Ovbiagele</LastName><ForeName>Bruce</ForeName><Initials>B</Initials><AffiliationInfo><Affiliation>Chief of Staff, San Francisco Veterans Affairs Health Care System, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Quock</LastName><ForeName>Justin</ForeName><Initials>J</Initials><AffiliationInfo><Affiliation>Chief, Department of Internal Medicine, Chinese Hospital, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>LeVine</LastName><ForeName>Todd</ForeName><Initials>T</Initials><AffiliationInfo><Affiliation>Chief Medical Officer, Dignity Health/CommonSpirit, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Sears</LastName><ForeName>Jonathan</ForeName><Initials>J</Initials><AffiliationInfo><Affiliation>Senior Lean Specialist, California Department of Health, Sacramento, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Covid-19 Vaccine Branch Director, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Chow</LastName><ForeName>Amabel</ForeName><Initials>A</Initials><AffiliationInfo><Affiliation>Special Projects Manager, San Francisco Department of Emergency Management, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Covid-19 Vaccine Branch Operations Lead, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Schafer</LastName><ForeName>Ellie</ForeName><Initials>E</Initials><AffiliationInfo><Affiliation>Former Program Coordinator, Covid-19 Vaccine Branch Operations, San Francisco Department of Emergency Management, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Morse</LastName><ForeName>Eleanor</ForeName><Initials>E</Initials><AffiliationInfo><Affiliation>Program Coordinator, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Covid-19 Vaccine Branch Logistics Unit Deputy, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Brown</LastName><ForeName>John</ForeName><Initials>J</Initials><AffiliationInfo><Affiliation>Medical Director, San Francisco Emergency Medical Services Agency, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Clinical Professor of Emergency Medicine, University of California San Francisco Medical School, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Connelly</LastName><ForeName>Elizabeth</ForeName><Initials>E</Initials><AffiliationInfo><Affiliation>Kaizen Promotion Office, Predictive Analytics Fellow, Zuckerberg San Francisco General Hospital, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Covid-19 Advanced Planning Branch Director, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Marks</LastName><ForeName>Jim</ForeName><Initials>J</Initials><AffiliationInfo><Affiliation>Professor of Anesthesiology, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Chief of Performance Excellence, Zuckerberg San Francisco General Hospital, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Enanoria</LastName><ForeName>Wayne</ForeName><Initials>W</Initials><AffiliationInfo><Affiliation>Chief Science Officer, Santa Clara County Department of Public Health, San Jose, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Assistant Professor, Epidemiology &amp; Biostatistics, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Former Director of Applied Research Community Health Epidemiology and Surveillance (ARCHES), San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Ehrlich</LastName><ForeName>Susan</ForeName><Initials>S</Initials><AffiliationInfo><Affiliation>CEO, Zuckerberg San Francisco General Hospital, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Professor of Medicine, University of California San Francisco School of Medicine, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Philip</LastName><ForeName>Susan</ForeName><Initials>S</Initials><AffiliationInfo><Affiliation>Health Officer, City and County of San Francisco, San Francisco, California, USA.</Affiliation></AffiliationInfo><AffiliationInfo><Affiliation>Director, Population Health Division, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Bobba</LastName><ForeName>Naveena</ForeName><Initials>N</Initials><AffiliationInfo><Affiliation>Deputy Director of Health, San Francisco Department of Public Health, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Colfax</LastName><ForeName>Grant</ForeName><Initials>G</Initials><AffiliationInfo><Affiliation>Director of Health, City and County of San Francisco, San Francisco, California, USA.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><GrantList CompleteYN="Y"><Grant><GrantID>R01 MD012441</GrantID><Acronym>MD</Acronym><Agency>NIMHD NIH HHS</Agency><Country>United States</Country></Grant><Grant><GrantID>U13 NS120475</GrantID><Acronym>NS</Acronym><Agency>NINDS NIH HHS</Agency><Country>United States</Country></Grant></GrantList><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2024</Year><Month>07</Month><Day>17</Day></ArticleDate></Article><MedlineJournalInfo><Country>United States</Country><MedlineTA>NEJM Catal Innov Care Deliv</MedlineTA><NlmUniqueID>101760264</NlmUniqueID><ISSNLinking>2642-0007</ISSNLinking></MedlineJournalInfo><CoiStatement>Disclosures: Mary P. Mercer, Lukejohn Day, Maria Ansari, Elizabeth Kwan, Desi Kotis, Valerie Caplan, Trang Quyen Nguyen, Christopher Lee, Matthew Smith, Andrea G. Tenner, Baljeet Sangha, Tiffany Rivera, Kenpou Saelee, Claire Horton, Adrienne Green, Vernon Giang, Bruce Ovbiagele, Justin Quock, Todd LeVine, Jonathan Sears, Amabel Chow, Ellie Schafer, Eleanor Morse, John Brown, Elizabeth Connelly, Jim Marks, Wayne Enanoria, Susan Ehrlich, Susan Philip, Naveena Bobba, and Grant Colfax have nothing to disclose.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="medline"><Year>2024</Year><Month>10</Month><Day>1</Day><Hour>10</Hour><Minute>19</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2024</Year><Month>10</Month><Day>1</Day><Hour>10</Hour><Minute>18</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2024</Year><Month>10</Month><Day>1</Day><Hour>4</Hour><Minute>15</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2024</Year><Month>9</Month><Day>30</Day></PubMedPubDate></History><PublicationStatus>ppublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">39350897</ArticleId><ArticleId IdType="mid">NIHMS2016687</ArticleId><ArticleId IdType="pmc">PMC11441330</ArticleId><ArticleId IdType="doi">10.1056/CAT.23.0330</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Farrell TW, Francis L, Brown T, et al.
+Rationing limited healthcare resources in the COVID-19 era and
+beyond: ethical considerations regarding older adults.
+J Am Geriatr Soc
+2020;68:1143–9
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7267288/
+10.1111/jgs.16539.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1111/jgs.16539</ArticleId><ArticleId IdType="pmc">PMC7267288</ArticleId><ArticleId IdType="pubmed">32374466</ArticleId></ArticleIdList></Reference><Reference><Citation>Gershengorn HB, Holt GE, Rezk A, et al.
+Assessment of disparities associated with a crisis standards of
+care resource allocation algorithm for patients in 2 US hospitals during the
+COVID-19 pandemic. JAMA Netw Open
+2021;4:e214149
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7980099/
+https://doi.org/10.1001/jamanetworkopen.2021.4149.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamanetworkopen.2021.4149</ArticleId><ArticleId IdType="pmc">PMC7980099</ArticleId><ArticleId IdType="pubmed">33739434</ArticleId></ArticleIdList></Reference><Reference><Citation>Hick JL, Hanfling D, Wynia M. Hospital planning for contingency and crisis conditions:
+crisis standards of care lessons from COVID-19. Jt Comm J Qual Patient Saf
+2022;48:354–61
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8828442/
+https://doi.org/10.1016/j.jcjq.2022.02.003.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jcjq.2022.02.003</ArticleId><ArticleId IdType="pmc">PMC8828442</ArticleId><ArticleId IdType="pubmed">35595654</ArticleId></ArticleIdList></Reference><Reference><Citation>Simon P, Ho A, Shah MD, Shetgiri R. Trends in mortality from COVID-19 and other leading
+causes of death among Latino vs white individuals in Los Angeles County,
+2011–2020. JAMA
+2021;326:973–4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8290334/
+https://doi.org/10.1001/jama.2021.11945.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jama.2021.11945</ArticleId><ArticleId IdType="pmc">PMC8290334</ArticleId><ArticleId IdType="pubmed">34279553</ArticleId></ArticleIdList></Reference><Reference><Citation>Martinez DA, Hinson JS, Klein EY, et al.
+SARS-CoV-2 positivity rate for Latinos in the
+Baltimore-Washington, DC region. JAMA
+2020;324:392–5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303900/
+https://doi.org/10.1001/jama.2020.11374.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jama.2020.11374</ArticleId><ArticleId IdType="pmc">PMC7303900</ArticleId><ArticleId IdType="pubmed">32556212</ArticleId></ArticleIdList></Reference><Reference><Citation>Price-Haywood EG, Burton J, Fort D, Seoane L. Hospitalization and mortality among Black patients and
+white patients with Covid-19. N Engl J Med
+2020;382:2534–43
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269015/
+https://doi.org/10.1056/NEJMsa2011686.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1056/NEJMsa2011686</ArticleId><ArticleId IdType="pmc">PMC7269015</ArticleId><ArticleId IdType="pubmed">32459916</ArticleId></ArticleIdList></Reference><Reference><Citation>Kriss JL, Hung MC, Srivastav A, et al.
+COVID-19 vaccination coverage, by race and ethnicity —
+National Immunization Survey Adult COVID Module, United States, December
+2020–November 2021. MMWR Morb Mortal Wkly Rep
+2022;71:757–63
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181054/
+https://doi.org/10.15585/mmwr.mm7123a2.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.15585/mmwr.mm7123a2</ArticleId><ArticleId IdType="pmc">PMC9181054</ArticleId><ArticleId IdType="pubmed">35679179</ArticleId></ArticleIdList></Reference><Reference><Citation>Boehmer TK, Koumans EH, Skillen EL, et al.
+Racial and ethnic disparities in outpatient treatment of COVID-19
+— United States, January–July 2022.
+MMWR Morb Mortal Wkly Rep
+2022;71:1359–65
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9620572/
+https://doi.org/10.15585/mmwr.mm7143a2.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.15585/mmwr.mm7143a2</ArticleId><ArticleId IdType="pmc">PMC9620572</ArticleId><ArticleId IdType="pubmed">36301738</ArticleId></ArticleIdList></Reference><Reference><Citation>City and County of San
+Francisco. COVID-19 Data and
+Reports. Accessed February 15,
+2024.
+https://www.sf.gov/resource/2021/covid-19-data-and-reports.</Citation></Reference><Reference><Citation>Public Health Alliance of
+Southern California. Welcome to the Healthy Places Index. 2022. Accessed October 1,
+2023.
+https://www.healthyplacesindex.org/.</Citation></Reference><Reference><Citation>United States Census
+Bureau. Quick Facts. San Francisco
+County, California. Population
+Estimates, July
+1, 2023.  (V2023). Accessed June 30,
+2023.
+https://www.census.gov/quickfacts/sanfranciscocountycalifornia.</Citation></Reference><Reference><Citation>United States Census
+Bureau. Census Bureau Reports 265,000 Workers Commute into San Francisco County, Calif., Each Day. March
+5, 2013. Accessed June 30,
+2023.
+https://www.census.gov/newsroom/archives/2013-pr/cb13-r22.html.</Citation></Reference><Reference><Citation>City and County of San
+Francisco. City Performance Scorecards.
+Health Insurance Coverage.
+Accessed October 1, 2023.
+https://sfgov.org/scorecards/public-health/health-insurance-coverage.</Citation></Reference><Reference><Citation>Hung DY, Rundall TG, Lee J, Khandel N, Shortell SM. Managing through a pandemic: a daily management system
+for COVID-19 response and recovery. J Healthc Manag
+2022;67:446–57
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9640242/
+https://doi.org/10.1097/JHM-D-21-00319.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/JHM-D-21-00319</ArticleId><ArticleId IdType="pmc">PMC9640242</ArticleId><ArticleId IdType="pubmed">36350582</ArticleId></ArticleIdList></Reference><Reference><Citation>Aragón TJ, Cody SH, Farnitano C, et al.
+Crisis decision-making at the speed of COVID-19: field report on
+issuing the first regional shelter-in-place orders in the United
+States. J Public Health Manag Pract
+2021;27(Suppl
+1):S19–28
+https://journals.lww.com/jphmp/fulltext/2021/01001/crisis_decision_making_at_the_speed_of_covid_19_.5.aspx
+https://doi.org/10.1097/PHH.0000000000001292.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1097/PHH.0000000000001292</ArticleId><ArticleId IdType="pubmed">33239560</ArticleId></ArticleIdList></Reference><Reference><Citation>California Department of Public
+Health. Respiratory Virus Dashboard
+Updated
+May
+22, 2024. Accessed October 1,
+2023.
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Respiratory-Viruses/RespiratoryDashboard.aspx.</Citation></Reference><Reference><Citation>Sachdev DD, Petersen M, Havlir DV, et al.
+San Francisco’s citywide COVID-19 response: strategies to
+reduce COVID-19 severity and health disparities, March 2020 through May
+2022. Public Health Rep
+2023;138:747–55
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10323495/
+https://doi.org/10.1177/00333549231181353.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1177/00333549231181353</ArticleId><ArticleId IdType="pmc">PMC10323495</ArticleId><ArticleId IdType="pubmed">37408322</ArticleId></ArticleIdList></Reference><Reference><Citation>Moench M
+Inside a Dedicated Covid Unit. San Francisco
+Chronicle. Updated
+April
+9, 2020. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/Inside-SF-s-first-coronavirus-hospital-unit-15183217.php.</Citation></Reference><Reference><Citation>Chamie G, Marquez C, Crawford E, et al.
+Community transmission of severe acute respiratory syndrome
+coronavirus 2 disproportionately affects the Latinx population during
+shelter-in-place in San Francisco. Clin Infect Dis
+2021;73(Suppl
+2)S127–35
+https://academic.oup.com/cid/article/73/Supplement_2/S127/5895337
+https://doi.org/10.1093/cid/ciaa1234.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/cid/ciaa1234</ArticleId><ArticleId IdType="pmc">PMC7499499</ArticleId><ArticleId IdType="pubmed">32821935</ArticleId></ArticleIdList></Reference><Reference><Citation>COVID-19 stats: COVID-19
+incidence, by age group — United States, March 1–November 14,
+2020. MMWR Morb Mortal Wkly Rep
+2021;69:1664
+https://www.cdc.gov/mmwr/volumes/69/wr/mm695152a8.htm?s_cid=mm695152a8_w.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC9191900</ArticleId><ArticleId IdType="pubmed">33382674</ArticleId></ArticleIdList></Reference><Reference><Citation>Bains G, Breyre A, Seymour R, et al.
+Centralized ambulance destination determination: a retrospective
+data analysis to determine impact on EMS system distribution, surge events,
+and diversion status. West J Emerg Med
+2021;22:1311–6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8597692/
+https://doi.org/10.5811/westjem.2021.8.53198.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.5811/westjem.2021.8.53198</ArticleId><ArticleId IdType="pmc">PMC8597692</ArticleId><ArticleId IdType="pubmed">34787556</ArticleId></ArticleIdList></Reference><Reference><Citation>Fuchs JD, Carter HC, Evans J, et al.
+Assessment of a hotel-based COVID-19 isolation and quarantine
+strategy for persons experiencing homelessness. JAMA Netw Open
+2021;4:e210490
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7926291/
+https://doi.org/10.1001/jamanetworkopen.2021.0490.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamanetworkopen.2021.0490</ArticleId><ArticleId IdType="pmc">PMC7926291</ArticleId><ArticleId IdType="pubmed">33651111</ArticleId></ArticleIdList></Reference><Reference><Citation>Moench M
+Coronavirus Patients from Overwhelmed Imperial County Fill Bay Area Hospital Beds. San Francisco
+Chronicle. Updated
+July
+8, 2000. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/Coronavirus-patients-from-overwhelmed-Imperial-15395397.php.</Citation></Reference><Reference><Citation>Moench M
+San Quentin’s Coronavirus Outbreak Strains Marin, Bay Area Hospitals. San Francisco
+Chronicle. Updated
+July
+7, 2000. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/San-Quentin-s-coronavirus-outbreak-strains-Bay-15392385.php.</Citation></Reference><Reference><Citation>California Department of Public
+Health. Crisis Care Continuum.
+January
+21, 2021. Accessed October 1,
+2023.
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Crisis-Care-Continuum.aspx.</Citation></Reference><Reference><Citation>Centers for Disease Control and
+Prevention. COVID-19: Strategies to Mitigate Healthcare Personnel Staffing Shortages. Updated
+September
+23, 2022. Accessed October 1,
+2023.
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/mitigating-staff-shortages.html.</Citation></Reference><Reference><Citation>Alfandre D, Sharpe VA, Geppert C, et al.
+Between usual and crisis phases of a public health emergency: the
+mediating role of contingency measures. Am J Bioeth
+2021;21:4–16
+https://www.tandfonline.com/doi/full/10.1080/15265161.2021.1925778
+https://doi.org/10.1080/15265161.2021.1925778.</Citation><ArticleIdList><ArticleId IdType="doi">10.1080/15265161.2021.1925778</ArticleId><ArticleId IdType="doi">10.1080/15265161.2021.1925778</ArticleId><ArticleId IdType="pubmed">33998972</ArticleId></ArticleIdList></Reference><Reference><Citation>Fimrite P, Morris JD. UCSF Medical Workers Question Federal Distribution of COVID-19 Medicine. San Francisco Chronicle.
+May
+8, 2000. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/UCSF-medical-workers-question-federal-15255699.php.</Citation></Reference><Reference><Citation>Thadni T
+SF to Open Three Mass Vaccination Sites with Hopes of Giving at Least 10,000 Vaccinations a Day. San Francisco
+Chronicle. January
+15, 2021. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/S-F-to-open-three-mass-vaccination-sites-with-15874635.php.</Citation></Reference><Reference><Citation>Kushel M, DiPietro, Watts B. Bringing Covid-19 Vaccines to High Risk
+Populations—Like Those Who Are Homeless—Requires a Tailored
+Approach. The BMJ Opinion.
+March
+22, 2021. Accessed October 1,
+2023.
+https://blogs.bmj.com/bmj/2021/03/22/bringing-COVID-19-vaccines-to-high-risk-populations-like-those-who-are-homeless-requires-a-tailored-approach.</Citation></Reference><Reference><Citation>Fields J, Gutierrez JR, Marquez C, et al.
+Community-academic partnerships to address Covid-19 inequities:
+lessons from the San Francisco Bay Area. NEJM Catalyst. June
+23, 2021. Accessed February 16,
+2024.
+https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0135.</Citation><ArticleIdList><ArticleId IdType="doi">10.1056/CAT.21.0135</ArticleId></ArticleIdList></Reference><Reference><Citation>Peng J, Marquez C, Rubio L, et al.
+High likelihood of accepting COVID-19 vaccine in a Latinx
+community at high SARS-CoV-2 risk in San Francisco.
+Open Forum Infect Dis
+2021;8:ofab202
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083232/
+https://doi.org/10.1093/ofid/ofab202.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/ofid/ofab202</ArticleId><ArticleId IdType="pmc">PMC8083232</ArticleId><ArticleId IdType="pubmed">34642635</ArticleId></ArticleIdList></Reference><Reference><Citation>Weng Y, Lu D, Bollyky J, et al.; on Behalf of The California Pandemic
+Consortium. Race-ethnicity and COVID-19 vaccination
+beliefs and intentions: a cross-sectional study among the general population
+in the San Francisco Bay area. Vaccines (Basel)
+2021;9:1406
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8705240/
+https://doi.org/10.3390/vaccines9121406.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/vaccines9121406</ArticleId><ArticleId IdType="pmc">PMC8705240</ArticleId><ArticleId IdType="pubmed">34960152</ArticleId></ArticleIdList></Reference><Reference><Citation>Stern RJ, Rafferty HF, Robert AC, et al.
+Concentrating vaccines in neighborhoods with high COVID-19
+burden. NEJM Catalyst. April
+6, 2021. Accessed February 16,
+2024.
+https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0056.</Citation><ArticleIdList><ArticleId IdType="doi">10.1056/CAT.21.0056</ArticleId></ArticleIdList></Reference><Reference><Citation>Marquez C, Kerkhoff AD, Naso J, et al.
+A multi-component, community-based strategy to facilitate
+COVID-19 vaccine uptake among Latinx populations: from theory to
+practice. PLoS One
+2021;16:e0257111
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8452046/
+https://doi.org/10.1371/journal.pone.0257111.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1371/journal.pone.0257111</ArticleId><ArticleId IdType="pmc">PMC8452046</ArticleId><ArticleId IdType="pubmed">34543291</ArticleId></ArticleIdList></Reference><Reference><Citation>Fagan K ‘This Is What Equity Looks Like’: Roving Teams Deliver COVID Vaccines Around S.F.’s Tenderloin.
+San Francisco Chronicle.
+Updated
+September
+5, 2022. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/Tenderloin-COVID-vaccine-SF-17396467.php.</Citation></Reference><Reference><Citation>Vaziri A
+Second COVID Bivalent Booster Shots Set to Roll Out. Here’s What You Need to Know. San Francisco
+Chronicle. Updated
+April
+19, 2023. Accessed October 1,
+2023.
+https://www.sfchronicle.com/health/article/bivalent-covid-booster-cdc-walensky-faq-17906389.php.</Citation></Reference><Reference><Citation>Centers for Disease Control and
+Prevention. COVID-19 Mortality Overview: Provisional Death Counts for COVID-19. Last reviewed
+September
+12, 2023. Accessed October 1,
+2023.
+https://www.cdc.gov/nchs/covid19/mortality-overview.htm.</Citation></Reference><Reference><Citation>San Francisco Government.
+COVID-19 Deaths: COVID-19 Deaths in San Francisco, Including New and Cumulative Totals. Accessed October 1,
+2023.
+https://sf.gov/data/COVID-19-cases-and-deaths#total-cases-and-deaths.</Citation></Reference><Reference><Citation>Lin R-G II, Money L, Greene S. San Francisco Bay Area’s COVID Death Rate Was Among the Lowest in the Nation. Here’s Why.
+Los Angeles Times. November
+27, 2023. Accessed December 4,
+2023.
+https://www.latimes.com/california/story/2023-11-27/san-franciscos-covid-death-rate-was-among-lowest-in-nation.</Citation></Reference><Reference><Citation>KFF. KFF COVID-19 Vaccine Monitor. Accessed December 4,
+2023.
+https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard.</Citation></Reference><Reference><Citation>California Department of Public
+Health. COVID-19 Vaccination Data.
+Updated
+February
+2, 2024. Accessed December 4,
+2023.
+https://covid19.ca.gov/vaccination-progress-data/.</Citation></Reference><Reference><Citation>Chokshi DA, Katz MH. Emerging lessons from COVID-19 response in New York
+City. JAMA
+2020;323:1996–7
+https://jamanetwork.com/journals/jama/fullarticle/2766403
+https://doi.org/10.1001/jama.2020.7310.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jama.2020.7310</ArticleId><ArticleId IdType="pubmed">32453355</ArticleId></ArticleIdList></Reference><Reference><Citation>Powell T, Chuang E. COVID in NYC: what we could do better.
+Am J Bioeth
+2020;20:62–6
+https://www.tandfonline.com/doi/full/10.1080/15265161.2020.1764146
+https://doi.org/10.1080/15265161.2020.1764146.</Citation><ArticleIdList><ArticleId IdType="doi">10.1080/15265161.2020.1764146</ArticleId><ArticleId IdType="doi">10.1080/15265161.2020.1764146</ArticleId><ArticleId IdType="pubmed">32464081</ArticleId></ArticleIdList></Reference><Reference><Citation>Piscitello GM, Kapania EM, Miller WD, Rojas JC, Siegler M, Parker WF. Variation in ventilator allocation guidelines by US
+state during the coronavirus disease 2019 pandemic: a systematic
+review. JAMA Netw Open
+2020;3:e2012606
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767360
+https://doi.org/10.1001/jamanetworkopen.2020.12606.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamanetworkopen.2020.12606</ArticleId><ArticleId IdType="pmc">PMC7305526</ArticleId><ArticleId IdType="pubmed">32558916</ArticleId></ArticleIdList></Reference><Reference><Citation>Cavallo JJ, Donoho DA, Forman HP. Hospital capacity and operations in the coronavirus
+disease 2019 (COVID-19) pandemic — planning for the nth
+patient. JAMA Health Forum
+2020;1:e200345
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2763353
+https://doi.org/10.1001/jamahealthforum.2020.0345.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamahealthforum.2020.0345</ArticleId><ArticleId IdType="pubmed">36218595</ArticleId></ArticleIdList></Reference><Reference><Citation>Aron JA, Bulteel AJB, Clayman KA, et al.
+Strategies for responding to the COVID-19 pandemic in a rural
+health system in New York state. Healthc (Amst)
+2021;9:100508
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8055183/
+https://doi.org/10.1016/j.hjdsi.2020.100508.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.hjdsi.2020.100508</ArticleId><ArticleId IdType="pmc">PMC8055183</ArticleId><ArticleId IdType="pubmed">33711564</ArticleId></ArticleIdList></Reference><Reference><Citation>Tangcharoensathien V, Bassett MT, Meng Q, Mills A. Are overwhelmed health systems an inevitable consequence
+of Covid-19? Experiences from China, Thailand, and New York
+State. BMJ
+2021;372:n83
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8896039/
+https://doi.org/10.1136/bmj.n83.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1136/bmj.n83</ArticleId><ArticleId IdType="pmc">PMC8896039</ArticleId><ArticleId IdType="pubmed">33483336</ArticleId></ArticleIdList></Reference><Reference><Citation>Feldman SL, Mayer PA. Arizona health care systems’ coordinated response
+to COVID-19—“In It Together.”
+JAMA Health Forum
+2020;1:e201064
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2769929
+https://doi.org/10.1001/jamahealthforum.2020.1064.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1001/jamahealthforum.2020.1064</ArticleId><ArticleId IdType="pubmed">36218577</ArticleId></ArticleIdList></Reference><Reference><Citation>Maurer ML. Leading a hospital Incident Command System during a
+global pandemic. J Emerg Manag
+2021;18:183–7
+https://wmpllc.org/ojs/index.php/jem/article/view/2917
+https://doi.org/10.5055/jem.0555.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.5055/jem.0555</ArticleId><ArticleId IdType="pubmed">34723362</ArticleId></ArticleIdList></Reference><Reference><Citation>Hartnett J, Houston KD, Rose SJ. Augmentation of a hospital Incident Command System to
+support continued waves of the COVID-19 pandemic. J Healthc Leadersh
+2022;14:191–201
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9700468/
+https://doi.org/10.2147/JHL.S372909.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.2147/JHL.S372909</ArticleId><ArticleId IdType="pmc">PMC9700468</ArticleId><ArticleId IdType="pubmed">36444313</ArticleId></ArticleIdList></Reference><Reference><Citation>Kaye AD, Cornett EM, Kallurkar A, et al.
+Framework for creating an incident command center during
+crises. Best Pract Res Clin Anaesthesiol
+2021;35:377–88
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8428470/
+https://doi.org/10.1016/j.bpa.2020.11.008.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.bpa.2020.11.008</ArticleId><ArticleId IdType="pmc">PMC8428470</ArticleId><ArticleId IdType="pubmed">34511226</ArticleId></ArticleIdList></Reference><Reference><Citation>Holtzclaw T, Newman SD, Dwyer M, Simpson J, Goodwin T. Coronavirus disease 2019 in the emergency department:
+establishing an interprofessional Incident Command System.
+J Emerg Nurs
+2022;48:477–83
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9249398/
+https://doi.org/10.1016/j.jen.2022.01.004.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jen.2022.01.004</ArticleId><ArticleId IdType="pmc">PMC9249398</ArticleId><ArticleId IdType="pubmed">35787778</ArticleId></ArticleIdList></Reference><Reference><Citation>Tapia-Conyer R, Valdez-Vázquez RR, Lomelín-Gascín J, Saucedo-Martínez R, Martinez-Juarez LA, Gallardo-Rincón H. Rapid establishment of a dedicated COVID-19 hospital in
+Mexico City during a public health crisis. Hosp Pract
+2021;50:183–7
+https://www.tandfonline.com/doi/full/10.1080/21548331.2021.2017644
+https://doi.org/10.1080/21548331.2021.2017644.</Citation><ArticleIdList><ArticleId IdType="doi">10.1080/21548331.2021.2017644</ArticleId><ArticleId IdType="doi">10.1080/21548331.2021.2017644</ArticleId><ArticleId IdType="pubmed">34894978</ArticleId></ArticleIdList></Reference><Reference><Citation>Smith IM, Bayliss E. Recovering staff, recovering services: massive-online
+support for recovering a paediatric service using Lean and compassionate
+communication. BMJ Open Qual
+2022;11:e001914
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9234906/
+https://doi.org/10.1136/bmjoq-2022-001914.</Citation><ArticleIdList><ArticleId IdType="doi">10.1136/bmjoq-2022-001914</ArticleId><ArticleId IdType="pmc">PMC9234906</ArticleId><ArticleId IdType="pubmed">35750350</ArticleId></ArticleIdList></Reference><Reference><Citation>Lanza-León P, Sanchez-Ruiz L, Cantarero-Prieto D. Kanban system applications in healthcare services: a
+literature review. Int J Health Plann Manage
+2021;36:2062–78
+https://onlinelibrary.wiley.com/doi/10.1002/hpm.3276
+https://doi.org/10.1002/hpm.3276.
+</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/hpm.3276</ArticleId><ArticleId IdType="doi">10.1002/hpm.3276</ArticleId><ArticleId IdType="pubmed">34235781</ArticleId></ArticleIdList></Reference><Reference><Citation>Ho C
+SF to Get More Than 4,000 Doses of Monkeypox Vaccine Next Week.
+San Francisco Chronicle.
+July
+15, 2022. Accessed October 1,
+2023.
+https://www.sfchronicle.com/bayarea/article/More-monkeypox-vaccine-on-the-way-federal-health-17308378.php#photo-22706546.</Citation></Reference><Reference><Citation>Ho C
+SF Says Clinic Is Out of Monkeypox Vaccine, Will Be Closed Tuesday. San Francisco Chronicle.
+August
+10, 2022. Accessed October 1,
+2023.
+https://www.sfchronicle.com/bayarea/article/S-F-says-clinic-is-out-of-monkeypox-vaccine-17328129.php.</Citation></Reference></ReferenceList></PubmedData></PubmedArticle>

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% load static %}
+    {% load humanize %}
+    {% load custom_tags %}
+    <link rel="icon" href="{% static 'img/logo.jpg' %}" type="image/x-icon" />
+    <title>Word to Vector</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<style>
+.chart-row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.chart-item {
+    text-align: center;
+    margin: 0 5px;
+}
+
+.chart-item img {
+    max-width: 600px;
+    max-height: 600px;
+    margin: 10px 0;
+}
+</style>
+<body>
+    <header>
+        <div class="header-container">
+            <img src="{% static 'img/logo.jpg' %}" alt="logo" class="logo" />
+            <h1>Information Retrieval System</h1>
+            <nav>
+                <ul>
+                    <li><a href="{% url 'index_view' %}" onclick="removeQueryParameter()">Home</a></li>
+                    <li><a href="{% url 'distribution_view' %}" onclick="removeQueryParameter()">WordCloud</a></li>
+                    <li><a href="{% url 'w2v_view' %}">TFIDF</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="chart-container" style="margin-top: 120px; width: 90%;">
+        <h2>TF-IDF</h2>
+        {% for dataset, charts in results.items %}
+        <div class="chart-row">
+            <h3>{{ dataset }}</h3>
+            <p></p>
+            {% for key, path in charts.items %}
+            <div class="chart-item">
+                <h3>{{ key }}</h3>
+                <img src="../../{{ path }}" alt="{{ key }}" style="width: 100%;" />
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Upload XML File -->
+    <form method="POST" enctype="multipart/form-data" class="mb-5">
+        {% csrf_token %}
+        <div class="mb-3">
+            <label for="xml_file" class="form-label">Upload XML File</label>
+            <input type="file" name="xml_file" id="xml_file" class="form-control">
+        </div>
+
+        <!-- TF Calculation Formula -->
+        <div class="mb-3" style="margin-bottom: 10px; margin-right: 10px;">
+            <label for="tf_formula" class="form-label">TF Calculation Formula</label>
+            <select name="tf_formula" id="tf_formula" class="form-control">
+                <option value="log(tf)">log(tf)</option>
+                <option value="tf">tf</option>
+                <option value="sqrt(tf)">sqrt(tf)</option>
+            </select>
+        </div>
+
+        <!-- IDF Calculation Formula -->
+        <div class="mb-3" style="margin-bottom: 10px;">
+            <label for="idf_formula" class="form-label">IDF Calculation Formula</label>
+            <select name="idf_formula" id="idf_formula" class="form-control">
+                <option value="log(N / df)">log(N / df)</option>
+                <option value="log(1 + (N / df))">log(1 + (N / df))</option>
+                <option value="log(N - df)">log(N - df)</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="margin-left: 10px;">Upload and Analyze</button>
+    </form>
+
+    <!-- Uploaded File Analysis Results -->
+    <h2>Uploaded XML Analysis Results</h2>
+    {% if uploaded_abstract %}
+        <div class="mb-3" style="margin-top: 20px; width: 90%;">
+            <h4>Abstract:</h4>
+            <p>{{ uploaded_abstract }}</p>
+        </div>
+    {% else %}
+        <p>No abstract available for the uploaded file.</p>
+    {% endif %}
+
+    {% if uploaded_tables.tf_idf_table_normal %}
+    <h3 style="margin-top: 20px;">User-defined TF-IDF Words</h3>
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Word</th>
+                <th>TF Score</th>
+                <th>IDF Score</th>
+                <th>TF-IDF Score</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for row in uploaded_tables.tf_idf_table_normal %}
+                <tr>
+                    <td>{{ row.word }}</td>
+                    <td>{{ row.tf }}</td>
+                    <td>{{ row.idf }}</td>
+                    <td>{{ row.tf_idf }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        {% else %}
+            <p>No normal TF-IDF data available.</p>
+        {% endif %}
+
+    {% if uploaded_tables.tf_idf_table_user %}
+        <h3 style="margin-top: 20px;">Normal TF-IDF Words</h3>
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>Word</th>
+                <th>TF Score</th>
+                <th>IDF Score</th>
+                <th>TF-IDF Score</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for row in uploaded_tables.tf_idf_table_user %}
+                <tr>
+                    <td>{{ row.word }}</td>
+                    <td>{{ row.tf }}</td>
+                    <td>{{ row.idf }}</td>
+                    <td>{{ row.tf_idf }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No user-defined TF-IDF data available.</p>
+    {% endif %}
+
+    <footer>
+        <p>Copyright© 2024 P76134082 陳冠言</p>
+    </footer>
+</body>
+</html>

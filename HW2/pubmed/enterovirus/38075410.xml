@@ -1,0 +1,136 @@
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">38075410</PMID><DateRevised><Year>2023</Year><Month>12</Month><Day>11</Day></DateRevised><Article PubModel="Electronic-eCollection"><Journal><ISSN IssnType="Electronic">2532-8689</ISSN><JournalIssue CitedMedium="Internet"><Volume>31</Volume><Issue>4</Issue><PubDate><Year>2023</Year></PubDate></JournalIssue><Title>Le infezioni in medicina</Title><ISOAbbreviation>Infez Med</ISOAbbreviation></Journal><ArticleTitle>Impact of Nested Multiplex Polymerase Chain Reaction Assay in the management of pediatric patients with acute respiratory tract infections: a single center experience.</ArticleTitle><Pagination><StartPage>539</StartPage><EndPage>552</EndPage><MedlinePgn>539-552</MedlinePgn></Pagination><ELocationID EIdType="doi" ValidYN="Y">10.53854/liim-3104-13</ELocationID><Abstract><AbstractText Label="PURPOSE" NlmCategory="UNASSIGNED">Acute lower respiratory infection (ALRI) remains a global public health problem among children. Distinguishing the etiology of ALRI is challenging and rapid pathogen identification is critical for optimizing the diagnosis and treatment of infectious diseases. Multiplex polymerase chain reaction (PCR) is sensitive, simple, and rapid. Our objective was to evaluate the diagnostic yield and prognostic significance of the FilmArray test for identification of pathogens in pediatric patients with ALRI at a tertiary care center.</AbstractText><AbstractText Label="METHODS" NlmCategory="UNASSIGNED">A prospective observational cross-sectional study involved 230 pediatric patients presented with acute lower respiratory tract (LRT) symptoms, for whom conventional bacterial culture and FilmArray testing was ordered to aid in the proper diagnosis of the implicated respiratory pathogens.</AbstractText><AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">FilmArray Respiratory panel (FARP) was positive in 201 patients (87.4%). The most common detected pathogens were <i>Respiratory syncytial virus (RSV), Human Rhinovirus/Enterovirus, Parainfluenza, Influenza A</i>, and <i>Klebsiella pneumoniae;</i> 45 (19.6%), 38 (16.5%), 11 (4.8%), 8 (3.5%) and 6 (2.6%) respectively. FilmArray enabled a change in antimicrobial therapy in 168 (73%) of the patients.</AbstractText><AbstractText Label="CONCLUSIONS" NlmCategory="UNASSIGNED">FilmArray enables to improve etiological diagnosis of ALRI and optimize the antimicrobial use of drugs in critical care pediatric patients. Clinical correlation is essential to interpret multiple pathogens and resistance genes.</AbstractText></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Sherif</LastName><ForeName>Basma</ForeName><Initials>B</Initials><AffiliationInfo><Affiliation>Clinical Pathology Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Hamza</LastName><ForeName>Heba M</ForeName><Initials>HM</Initials><AffiliationInfo><Affiliation>Pediatrics Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Abdelwahab</LastName><ForeName>Hoda Ezz Elarab</ForeName><Initials>HEE</Initials><AffiliationInfo><Affiliation>Clinical Pathology Department, Faculty of Medicine, Ain Shams University, Cairo, Egypt.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList><ArticleDate DateType="Electronic"><Year>2023</Year><Month>12</Month><Day>01</Day></ArticleDate></Article><MedlineJournalInfo><Country>Italy</Country><MedlineTA>Infez Med</MedlineTA><NlmUniqueID>9613961</NlmUniqueID><ISSNLinking>1124-9390</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">FilmArray</Keyword><Keyword MajorTopicYN="N">PCR</Keyword><Keyword MajorTopicYN="N">Point of care testing</Keyword><Keyword MajorTopicYN="N">Syndromic testing</Keyword><Keyword MajorTopicYN="N">pediatric respiratory infections</Keyword><Keyword MajorTopicYN="N">stewardship</Keyword></KeywordList><CoiStatement>Conflict of interest: The authors have no relevant financial or non-financial interests to disclose.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="received"><Year>2023</Year><Month>6</Month><Day>24</Day></PubMedPubDate><PubMedPubDate PubStatus="accepted"><Year>2023</Year><Month>9</Month><Day>25</Day></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2023</Year><Month>12</Month><Day>11</Day><Hour>6</Hour><Minute>46</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2023</Year><Month>12</Month><Day>11</Day><Hour>6</Hour><Minute>45</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2023</Year><Month>12</Month><Day>11</Day><Hour>5</Hour><Minute>56</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2023</Year><Month>12</Month><Day>1</Day></PubMedPubDate></History><PublicationStatus>epublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">38075410</ArticleId><ArticleId IdType="pmc">PMC10705861</ArticleId><ArticleId IdType="doi">10.53854/liim-3104-13</ArticleId><ArticleId IdType="pii">1124-9390_31_4_2023_539-552</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Kamel N, Alshahrani M, Aboshanab K, El Borhamy M. Evaluation of the BioFire FilmArray Pneumonia Panel Plus to the Conventional Diagnostic Methods in Determining the Microbiological Etiology of Hospital-Acquired Pneumonia. Biology. 2022;11:377. doi: 10.3390/biology11030377.</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/biology11030377</ArticleId><ArticleId IdType="pmc">PMC8945136</ArticleId><ArticleId IdType="pubmed">35336751</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Zhang C, Chen X, Wang L, et al. 
+Evaluation of a multiplex PCR kit for detection of 17 respiratory pathogens in hospitalized patients. 
+
+
+
+
+
+
+
+
+J Thorac Dis. 2022;14(9):3386–3397. 
+ https://doi:10.21037/jtd-22-544
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.21037/jtd-22-544</ArticleId><ArticleId IdType="pmc">PMC9562540</ArticleId><ArticleId IdType="pubmed">36245589</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Shi J, Zhang Y, Yang M.
+Recent development of microfluidics-based platforms for respiratory virus detection. 
+
+
+
+
+
+
+Biomicrofluidics. 2023;17:024104. 
+ https://doi:10.1063/5.0135778
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1063/5.0135778</ArticleId><ArticleId IdType="pmc">PMC10076069</ArticleId><ArticleId IdType="pubmed">37035101</ArticleId></ArticleIdList></Reference><Reference><Citation>Lade H, Kim J, Chung Y, Han M, Mo E, Kim J. Comparative Evaluation of Allplex Respiratory Panels 1, 2, 3, and BioFire FilmArray Respiratory Panel for the Detection of Respiratory Infections. Diagnostics. 2022;12:9. doi: 10.3390/diagnostics12010009.</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/diagnostics12010009</ArticleId><ArticleId IdType="pmc">PMC8775103</ArticleId><ArticleId IdType="pubmed">35054176</ArticleId></ArticleIdList></Reference><Reference><Citation>Chen Y, Er T. Distribution of Viral Respiratory Infections during the COVID-19 Pandemic Using the FilmArray Respiratory Panel. Biomed. 2022;10:2734. doi: 10.3390/biomedicines10112734.</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/biomedicines10112734</ArticleId><ArticleId IdType="pmc">PMC9687127</ArticleId><ArticleId IdType="pubmed">36359254</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Manatrey-Lancaster J, Bushman A, Caligiuri M, Rosa R.
+Impact of BioFire FilmArray respiratory panel results on antibiotic days of therapy in different clinical settings. 
+
+
+
+
+
+
+
+Antimicrob Steward Healthc Epidemiol. 2021;1(1):e4. 
+ https://doi:10.1017/ash.2021.164
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1017/ash.2021.164</ArticleId><ArticleId IdType="pmc">PMC9495546</ArticleId><ArticleId IdType="pubmed">36168499</ArticleId></ArticleIdList></Reference><Reference><Citation>Huanzhu C, Huilan W, Meirui L, et al. The clinical significance of FilmArray respiratory panel in diagnosing community-acquired pneumonia. BioMed Res Int. 2017. pp. 1–6. Article ID 7320859.</Citation><ArticleIdList><ArticleId IdType="doi">10.1155/2017/7320859</ArticleId><ArticleId IdType="pmc">PMC5606103</ArticleId><ArticleId IdType="pubmed">29018819</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Popowitch E, Kaplan S, Wu Z, Tang Y, Miller M.
+Comparative performance of the Luminex NxTAG Respiratory Pathogen Panel, GenMark eSensor Respiratory Viral Panel and BioFire FilmArray Respiratory Panel. 
+
+
+
+
+
+
+
+Microbiol Spectr. 2022;10(4):1–7. 
+ https://doi:10.1128/spectrum.01248-22
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/spectrum.01248-22</ArticleId><ArticleId IdType="pmc">PMC9431521</ArticleId><ArticleId IdType="pubmed">35766513</ArticleId></ArticleIdList></Reference><Reference><Citation>Leber A, Everhart K, Daly J, et al. Multicenter evaluation of BioFire FilmArray Respiratory Panel 2 for detection of viruses and bacteria in nasopharyngeal swab samples. J Clin Microbiol. 2018;56:e01945–17. doi: 10.1128/JCM.01945-17.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/JCM.01945-17</ArticleId><ArticleId IdType="pmc">PMC5971546</ArticleId><ArticleId IdType="pubmed">29593057</ArticleId></ArticleIdList></Reference><Reference><Citation>Clinical Laboratory Standard Institute (CLSI) Performance standards for Antimicrobial susceptibility testing. 32nd ed. Wayne, PA: 2022. p. M100.</Citation></Reference><Reference><Citation>
+Yen T, Chen J, Lu C, et al. 
+Application of nested multiplex polymerase chain reaction respiratory and pneumonia panels in children with severe community-acquired pneumonia. 
+
+
+
+
+
+
+
+J Med Virol. 2023;95(1):e28334. 
+ https://doi:10.1002/jmv.28334
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/jmv.28334</ArticleId><ArticleId IdType="pmc">PMC10108056</ArticleId><ArticleId IdType="pubmed">36418155</ArticleId></ArticleIdList></Reference><Reference><Citation>Melebari S, Abdul Hafiz Dehlawi S, Bahwerth F, et al. Etiology of respiratory infections among neonatal and pediatric inpatients in a tertiary hospital in Makkah, Saudi Arabia. EC Paediatr. 2022;11(3):24–32.</Citation></Reference><Reference><Citation>Ginocchio C, Garcia-Mondragon C, Mauerhofer B, Rindlisbacher C. and the EME Evaluation Program Collaborative. Multinational evaluation of the BioFire® FilmArray® Pneumonia plus Panel as compared to standard of care testing. Eur J Clin Microbiol Infect Dis. 2021;40:1609–1622. doi: 10.1007/s10096-021-04195-5.</Citation><ArticleIdList><ArticleId IdType="doi">10.1007/s10096-021-04195-5</ArticleId><ArticleId IdType="pmc">PMC7924818</ArticleId><ArticleId IdType="pubmed">33655440</ArticleId></ArticleIdList></Reference><Reference><Citation>El-Nawawy A, Antonios M, Tawfik M, Meheissen M. Comparison of a Point-of-Care FilmArray Test to Standard-of-Care Microbiology Test in Diagnosis of Healthcare Associated Infections in a Tertiary Care Pediatric Intensive Care Unit. Antibiotics. 2022;11:453. doi: 10.3390/antibiotics11040453.</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/antibiotics11040453</ArticleId><ArticleId IdType="pmc">PMC9029956</ArticleId><ArticleId IdType="pubmed">35453205</ArticleId></ArticleIdList></Reference><Reference><Citation>Hayotte A, MarianiKurkdjian P, Boizeau P, et al. Viral identification using Multiplex Polymerase Chain Reaction Testing does not reduce antibiotic prescribing in paediatric intensive care units. Microorganisms. 2023;11:884. doi: 10.3390/microorganisms11040884.</Citation><ArticleIdList><ArticleId IdType="doi">10.3390/microorganisms11040884</ArticleId><ArticleId IdType="pmc">PMC10143589</ArticleId><ArticleId IdType="pubmed">37110306</ArticleId></ArticleIdList></Reference><Reference><Citation>Leli C, Di Matteo L, Gotta F, et al. Prevalence of respiratory viruses by Multiplex PCR: a four-and-a-half year retrospective study in an Italian general hospital. Infez Med. 2021;29(1):94–101.</Citation><ArticleIdList><ArticleId IdType="pubmed">33664178</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Buchan B, Windham S, Balada-Llasat J, et al. 
+Practical Comparison of the BioFire FilmArray Pneumonia Panel to routine diagnostic methods and potential impact on antimicrobial stewardship in adult hospitalized patients with lower respiratory tract infections. 
+
+
+
+
+
+
+
+
+J Clin Microbiol. 2020;58(7):e00135–20. 
+ https://doi:10.1128/JCM.00135-20
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/JCM.00135-20</ArticleId><ArticleId IdType="pmc">PMC7315039</ArticleId><ArticleId IdType="pubmed">32350045</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Debbagh F, Ben Houmich T, Guennouni M, et al. 
+Evaluation PCR panel of the FilmArray® pneumonia plus for pathogen detection of ventilator-asso.ciated pneumonia in children and its impact on therapeutic management. 
+
+
+
+
+
+
+
+
+Iran J Microbiol. 2023;15(1):19–26. 
+ https://doi:10.18502/ijm.v15i1.11914
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.18502/ijm.v15i1.11914</ArticleId><ArticleId IdType="pmc">PMC10105283</ArticleId><ArticleId IdType="pubmed">37069910</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Teo S, Mok D, Pham K, et al. 
+The infant nasopharyngeal microbiome impacts severity of lower respiratory infection and risk of asthma development. 
+
+
+
+
+
+
+
+
+Cell Host Microbe. 2015;17(5):704–15. 
+ https://doi:10.1016/j.chom.2015.03.008
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.chom.2015.03.008</ArticleId><ArticleId IdType="pmc">PMC4433433</ArticleId><ArticleId IdType="pubmed">25865368</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Garegnani L, Styrmisdóttir L, Roson Rodriguez P, Escobar Liquitay C, Esteban I, Franco J.
+Palivizumab for Preventing Severe Respiratory Syncytial Virus (RSV) Infection in Children. 
+
+
+
+
+
+
+
+Cochrane Database Syst Rev. 2021;11(11):CD013757. 
+ https://doi:10.1002/14651858
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1002/14651858</ArticleId><ArticleId IdType="pmc">PMC8594174</ArticleId><ArticleId IdType="pubmed">34783356</ArticleId></ArticleIdList></Reference><Reference><Citation>Lee S, Ruan S, Pan S, Lee T, Chien J, Hsueh P. Performance of a multiplex PCR pneumonia panel for the identification of respiratory pathogens and the main determinants of resistance from the lower respiratory tract specimens of adult patients in intensive care units. J Microbiol Immunol Infect. 2019;52(6):920–928. doi: 10.1016/j.jmii.2019.10.009.</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.jmii.2019.10.009</ArticleId><ArticleId IdType="pmc">PMC7185395</ArticleId><ArticleId IdType="pubmed">31806539</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Webber D, Wallace M, Burnham C, Anderson N.
+Evaluation of the BioFire FilmArray Pneumonia Panel for detection of viral and bacterial pathogens in lower respiratory tract specimens in the setting of a tertiary care academic medical center. 
+
+
+
+
+
+
+
+J Clin Microbiol. 2020;8(7):e00343–20. 
+ https://doi:10.1128/JCM.00343-20
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/JCM.00343-20</ArticleId><ArticleId IdType="pmc">PMC7315030</ArticleId><ArticleId IdType="pubmed">32321782</ArticleId></ArticleIdList></Reference><Reference><Citation>Murphy C, Fowler R, Balada-Llasa J, et al. Multicenter evaluation of the BioFire FilmArray Pneumonia Panel for the detection and quantification of agents of lower respiratory tract infection. J Clin Microbiol. 2020;58(7):e00128–e00120. doi: 10.1128/JCM.00128-20.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/JCM.00128-20</ArticleId><ArticleId IdType="pmc">PMC7315029</ArticleId><ArticleId IdType="pubmed">32350043</ArticleId></ArticleIdList></Reference><Reference><Citation>Iannello A, Dubost C, Weber C, et al. Evaluation of the BioFire® Pneumonia Panel in ICU patients with suspected ventilator associated pneumonia. Open Forum Infect Dis. 2018;5(1):S583. doi: 10.1093/ofid/ofy210.1658.</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/ofid/ofy210.1658</ArticleId></ArticleIdList></Reference><Reference><Citation>Edin A, Eilers H, Allard A. Evaluation of the Biofire Filmarray Pneumonia panel plus for lower respiratory tract infections. Infect Dis Ther. 2020;52(7):479–488. doi: 10.1080/23744235.2020.1755053.</Citation><ArticleIdList><ArticleId IdType="doi">10.1080/23744235.2020.1755053</ArticleId><ArticleId IdType="pubmed">32319831</ArticleId></ArticleIdList></Reference><Reference><Citation>Yoo Y, Huh K, Shim H, et al. Evaluation of the BioFire FilmArray Pneumonia Panel for rapid detection of respiratory bacterial pathogens and antibiotic resistance genes in sputum and endotracheal aspirate specimens. Int J Infect Dis. 2020;95:326–331. doi: 10.1016/j.ijid.2020.03.024.</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.ijid.2020.03.024</ArticleId><ArticleId IdType="pubmed">32179139</ArticleId></ArticleIdList></Reference><Reference><Citation>Gastli N, Loubinoux J, Daragon M, et al. Multicentric evaluation of BioFire FilmArray Pneumonia Panel for rapid bacteriological documentation of pneumonia. Clin Microbiol Infect. 2021;27(9):1308–1314. doi: 10.1016/j.cmi.2020.11.014. [</Citation><ArticleIdList><ArticleId IdType="doi">10.1016/j.cmi.2020.11.014</ArticleId><ArticleId IdType="pubmed">33276137</ArticleId></ArticleIdList></Reference><Reference><Citation>Westhuyzen M, Samodien N, Brink A, Moodley C. Utility of the BioFire® FilmArray® Pneumonia Panel plus assay for syndromic testing of lower respiratory tract infections in a low/middle-income setting. JAC Antimicrob Resist. 2023;5(1):dlac139. doi: 10.1093/jacamr/dlac139.</Citation><ArticleIdList><ArticleId IdType="doi">10.1093/jacamr/dlac139</ArticleId><ArticleId IdType="pmc">PMC9825243</ArticleId><ArticleId IdType="pubmed">36628341</ArticleId></ArticleIdList></Reference><Reference><Citation>
+Walker T, Dumadag S, Lee C, et al. 
+Clinical Impact of Laboratory Implementation of Verigene BC-GN Microarray-Based Assay for Detection of Gram-Negative Bacteria in Positive Blood Cultures. 
+
+
+
+
+
+
+
+J Clin Microbiol. 2016;54:1789–1796. 
+ https://doi:10.1128/JCM.00376-16
+.</Citation><ArticleIdList><ArticleId IdType="doi">10.1128/JCM.00376-16</ArticleId><ArticleId IdType="pmc">PMC4922078</ArticleId><ArticleId IdType="pubmed">27098961</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle>
