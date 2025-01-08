@@ -18,10 +18,9 @@ In this project, you can choose one of the 2 basic computational models:
 In this project, you are asking to implement and analyze “term weighting” technology for text documents in the vector space before executing the Porter’s algorithm. At least 2~3 types of TF-IDF and/or modified TF-IDF methods1, such as sentences or paragraphs are considered in this project. Then, you need to rank the most important key sentences in the paragraphs of documents based on term weighting and similarity measure, in which you have to choose one reasonable ranking and similarity computation method. 
 
 ## Final Project
-
 Focused on using food and cooking images, which are valuable information sources to predict recipe 
 ● For textual information, the text data is obtained from sentence transformer model, such as BERT or RoBERTa(with Pretraining) 
 ● To extract image features, U-Net or Contrastive Language-Image Pre-training (CLIP) can be used 
 ● The individual retrieval results are based on the cosine similarity of vector representations 
 ● To use both of the features, the individual retrieval results are combined using average or maximum scores, etc. 
-![image]([picture or gif url](https://github.com/Azure0413/NCKU_Infromation_Retrieval/blob/main/info.png))
+![image](https://github.com/Azure0413/NCKU_Infromation_Retrieval/blob/main/info.png)
