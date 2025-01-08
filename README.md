@@ -24,3 +24,4 @@ Focused on using food and cooking images, which are valuable information sources
 ● To extract image features, U-Net or Contrastive Language-Image Pre-training (CLIP) can be used 
 ● The individual retrieval results are based on the cosine similarity of vector representations 
 ● To use both of the features, the individual retrieval results are combined using average or maximum scores, etc. 
+![image]([picture or gif url](https://github.com/Azure0413/NCKU_Infromation_Retrieval/blob/main/info.png))
